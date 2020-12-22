@@ -36,3 +36,27 @@
 	Dado que eu navego até a página Pesquisa
 	Quando Quando seleciono o filtro Car delivery
 	Então devo ser redirecionado a pagina da busca em Car Delivery
+
+
+@evidencia
+	Cenario: Validar submenu no ver ofertas
+	Dado que eu navego até a página home do Webmotors
+	Quando eu clico no botão ver ofertas
+	Então vejo os itens do submenu
+	
+	@evidencia
+  Cenario: Validar elementos do menu home 
+  Dado que eu navego até a página home do Webmotors
+  E verifico que existe itens no  menu
+  
+ @evidencia
+ Cenario: Validar elementos do menu de busca página home
+    Dado que eu navego até a página home do Webmotors
+    E verifico que existe o menu da barra de Busca
+    
+@evidencia
+Cenario: Validar  Página quero Financiar 
+Dado que eu navego até a página home do Webmotors
+Então verifico que sou direcionada para página de quero financiar
+
+
