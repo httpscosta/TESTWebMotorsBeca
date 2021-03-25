@@ -1,2 +1,2 @@
-# TESTWebMotorsBeca
-Projeto realizado em dupla para prática de criação de testes automatizados utilizando Selenium e Cucumber BDD Testing ;)
+# Test-WebMotors
+Project done in Beca everis training for automated testing using Selenium Cucumber, BDD ;)
